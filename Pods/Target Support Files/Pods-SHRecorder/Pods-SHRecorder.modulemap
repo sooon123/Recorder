@@ -1,0 +1,6 @@
+framework module Pods_SHRecorder {
+  umbrella header "Pods-SHRecorder-umbrella.h"
+
+  export *
+  module * { export * }
+}

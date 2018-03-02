@@ -1,0 +1,6 @@
+framework module HcdCachePlayer {
+  umbrella header "HcdCachePlayer-umbrella.h"
+
+  export *
+  module * { export * }
+}
